@@ -1,7 +1,7 @@
 ## **<div align="center">I'm Daksh Hiran!! 🚀</div>**  
 
 # 💫About Me :
-🌱 I’m currently learning **React, solidity, DSA etc
+🌱 I’m currently learning React, solidity, DSA etc
 
  👯 I’m looking to collaborate on Full stack Projects
 
@@ -9,7 +9,7 @@
 
  📫 How to reach me daksh.hiran@gamil.com
 
--⚡ Fun fact I'm a big fan of Marvel !!
+ ⚡ Fun fact I'm a big fan of Marvel !!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-hiran) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DakshHiran7) 
