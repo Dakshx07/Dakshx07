@@ -5,7 +5,7 @@
 
  👯 I’m looking to collaborate on Full stack Projects
 
- 👨‍💻 All of my projects are available at [https://codolio.com/profile/Daksh7](https://codolio.com/profile/Daksh7)
+ 👨‍💻 All of my DSA Profile are available at [https://codolio.com/profile/Daksh7](https://codolio.com/profile/Daksh7)
 
  🔗 All my social Links are available at [https://bento.me/daksh7](https://bento.me/daksh7)
 
