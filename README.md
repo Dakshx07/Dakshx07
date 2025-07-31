@@ -7,6 +7,8 @@
 
  👨‍💻 All of my projects are available at [https://codolio.com/profile/Daksh7](https://codolio.com/profile/Daksh7)
 
+ 🔗 All my social Links are available at [https://bento.me/daksh7](https://bento.me/daksh7)
+
  📫 How to reach me daksh.hiran@gamil.com
 
  ⚡ Fun fact I'm a big fan of Marvel !!
