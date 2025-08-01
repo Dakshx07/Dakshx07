@@ -1,4 +1,4 @@
-# <div align="center" >I'm Daksh Hiran!! 🚀<br>👾Jack of all Trades</div>
+# <div align="center" >I'm Daksh Hiran!! 🚀<br>👾Jack of all Trades</div>  <p align="right"> <img src="https://komarev.com/ghpvc/?username=dakshx07&label=Profile%20views&color=0e75b6&style=flat" alt="dakshx07" /> </p> 
 
 # 💫About Me :
 🌱 I’m currently learning React, solidity, DSA etc
