@@ -1,34 +1,48 @@
-# <div align="center" >I'm Daksh Hiran!! 🚀<br>👾Jack of all Trades</div>  <p align="right"> <img src="https://komarev.com/ghpvc/?username=dakshx07&label=Profile%20views&color=0e75b6&style=flat" alt="dakshx07" /> </p> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:663399&height=220&section=header&text=Daksh%20Hiran&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-# 💫About Me :
-🌱 I’m currently learning React, solidity, DSA etc
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Jack+of+All+Trades+👾;Full+Stack+Developer+🚀;Blockchain+Enthusiast+⛓️;DSA+Problem+Solver+🧠" />
+</div>
 
- 👯 I’m looking to collaborate on Full stack Projects
+---
 
- 👨‍💻 All of my DSA Profile are available at [https://codolio.com/profile/Daksh7](https://codolio.com/profile/Daksh7)
+### 🛡️ About Me
+- 🔭 **Current Mission:** Mastering **Solidity** and **React** architecture.
+- ⚡ **Superpowers:** Problem-solving via **DSA** and crafting sleek UI/UX.
+- 🤝 **Recruiting:** Looking for innovative **Full Stack** or **Web3** projects.
+- 🧩 **Profiles:** [Codolio (DSA)](https://codolio.com/profile/Daksh7) | [Socials](https://bento.me/daksh7)
 
- 🔗 All my social Links are available at [https://bento.me/daksh7](https://bento.me/daksh7)
+---
 
- 📫 How to reach me daksh.hiran@gamil.com
+### 🛠️ Tech Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,redux,solidity,html,css,bootstrap,mongodb,mysql,express,postman,vercel,netlify,framer&theme=dark" />
+</div>
 
- ⚡ Fun fact I'm a big fan of Marvel !!
+---
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-hiran) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DakshHiran7) 
+### 🐍 Contribution Activity (Snake Game)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊GitHub Stats :
-   ![](https://github-readme-stats.vercel.app/api?username=Dakshx07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dakshx07&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshx07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Dakshx07&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+### 📊 Tactical Stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dakshx07&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshx07&layout=compact&theme=tokyonight" />
+  <br/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshx07&theme=tokyonight" />
+</div>
 
-### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <h3>🏆 Achievements Unlocked</h3>
+  <img src="https://github-trophies.vercel.app/?username=Dakshx07&theme=tokyonight&no-frame=false" />
+</div>
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=Dakshx07&icon=8&color=0)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dakshx07&label=Profile%20Views&color=36BCF7&style=flat-square" />
+</div>
