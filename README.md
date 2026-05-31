@@ -1,160 +1,339 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=240&section=header&text=Daksh%20Hiran&fontSize=72&animation=fadeIn&fontColor=a78bfa&fontAlignY=38&desc=Building%20Tomorrow%2C%20One%20Commit%20at%20a%20Time&descSize=18&descAlignY=58&descColor=94a3b8" width="100%" />
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=230&section=header&text=Daksh%20Hiran&fontSize=68&fontColor=a78bfa&fontAlignY=40&desc=Systems%20Engineer%20%E2%80%A2%20Open-Source%20Contributor%20%E2%80%A2%20TypeScript%20Maximalist&descColor=94a3b8&descSize=16&descAlignY=62&animation=twinkling" width="100%" />
+
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Engineer+%7C+TypeScript+96.7%25+of+the+time;Docker+Orchestration+%2B+Zero-Downtime+Systems;Model+Context+Protocol+%E2%80%94+AI+%C3%97+Infrastructure;Open-Source+%40+Twenty+%C2%B7+Nhost+%C2%B7+Formbricks;Building+on-chain+%26+off-chain+primitives)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%F0%9F%9B%A0%EF%B8%8F;Web3+%26+Blockchain+Builder+%E2%9B%93%EF%B8%8F;Mobile+App+Developer+%F0%9F%93%B1;AI+Systems+Architect+%F0%9F%A4%96;MCP+Agent+Enthusiast+%F0%9F%94%97;TypeScript+Maximalist+%F0%9F%92%99)](https://git.io/typing-svg)
+<!-- SOCIAL LINKS -->
+<a href="https://daksh-hiran.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=a78bfa"/></a>
+<a href="https://www.linkedin.com/in/daksh-hiran-9534b930b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/dakshhiran7"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:daksh.hiran@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://codolio.com/profile/Daksh7"><img src="https://img.shields.io/badge/DSA%20Profile-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://bento.me/daksh7"><img src="https://img.shields.io/badge/Bento-FF9500?style=for-the-badge&logo=bento&logoColor=white"/></a>
+<a href="https://synthesis-labs.vercel.app/"><img src="https://img.shields.io/badge/Synthesis_Labs-302B63?style=for-the-badge&logo=flask&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-<a href="https://daksh-hiran.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=a78bfa" /></a>
-<a href="https://www.linkedin.com/in/daksh-hiran-9534b930b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/dakshhiran7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://codolio.com/profile/Daksh7"><img src="https://img.shields.io/badge/DSA_Profile-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://bento.me/daksh7"><img src="https://img.shields.io/badge/Bento-FF9500?style=for-the-badge&logo=bento&logoColor=white" /></a>
-<a href="https://synthesis-labs.vercel.app/"><img src="https://img.shields.io/badge/Synthesis_Labs-302B63?style=for-the-badge&logo=moleculer&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/TypeScript-96.7%25_of_code-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Mentorship-10b981?style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://komarev.com/ghpvc/?username=Dakshx07&style=for-the-badge&color=302B63&label=PROFILE+VIEWS&labelColor=0F0C29"/>
 
 </div>
 
 ---
 
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=Dakshx07&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117" />
-
-### `$ whoami`
+## `$ whoami`
 
 ```typescript
-const daksh: Developer = {
+const daksh: Engineer = {
   name:       "Daksh Hiran",
-  location:   "Jaipur, Rajasthan 🇮🇳",
-  university: "JECRC University — CS Undergrad",
+  handle:     "@Dakshx07",
+  location:   "Jaipur, Rajasthan, India 🇮🇳",
+  degree:     "B.Tech Computer Science — JECRC University",
+
   roles: [
     "Full-Stack Engineer",
     "Mobile App Developer",   // iOS · Swift · React Native
-    "Web3 Builder",
-    "AI Systems Dev",
+    "Web3 & Blockchain Builder",
+    "AI Systems Architect",
+    "MCP Agent Integrations",
   ],
 
   currentlyBuilding: [
-    "MCP-powered streaming platforms",
-    "Blockchain prescription systems (MediChain)",
-    "AI-integrated SaaS (Sentinel ML + Supabase)",
-    "Production-ready mobile apps",
+    "MCP-orchestrated streaming platforms",
+    "Blockchain prescription verification (MediChain)",
+    "AI threat intelligence dashboards (Sentinel ML)",
+    "Premium research interfaces (Synthesis Labs)",
   ],
 
-  obsessions:  ["TypeScript", "Solidity", "System Design", "DSA"],
-  funFact:     "96.7% of my code screams TypeScript 💙",
+  philosophy: [
+    "Types are documentation that compiles",
+    "Uptime is a product feature, not an afterthought",
+    "Contribute upstream before building downstream",
+  ],
+
+  funFact:    "96.7% of my code screams TypeScript 💙",
+  openTo:     ["LFX Mentorship", "MLH Fellowship", "OSS Collaborations"],
 };
 ```
 
-<br clear="right"/>
+---
+
+## `$ git log --oneline --upstream` — Open-Source Contributions
+
+> Merged patches in **Y Combinator-backed** and **category-defining** open-source systems.
+
+<details open>
+<summary><b>🟣 Twenty CRM &nbsp;|&nbsp; <code>PR #21060</code> — Type-Safe Settings Field Form Architecture</b></summary>
+
+<br/>
+
+**Repository:** [`twentyhq/twenty`](https://github.com/twentyhq/twenty) — YC-backed open-source CRM alternative to Salesforce
+
+**The problem:** A developer `TODO` lived inside Twenty's frontend — unsafe index typings on `SettingsDataModelFieldEditFormValues`, plus a strict TypeScript enum incompatibility between the string union `SettingsFieldType` and its underlying GraphQL counterpart `FieldMetadataType`.
+
+**What I shipped:**
+- ✦ Introduced `SettingsDataModelFieldEditFormValues` as a proper discriminated union covering every field variant (text, number, select, relation, currency, etc.)
+- ✦ Resolved the `SettingsFieldType` → `FieldMetadataType` enum casting incompatibility under `strict: true`
+- ✦ Achieved **0-error** local compilation from a previously type-unsafe module
+
+```typescript
+// Before (unsafe) ↓
+type SettingsDataModelFieldEditFormValues = Record<string, unknown>;
+
+// After — PR #21060 ↓
+type SettingsDataModelFieldEditFormValues =
+  | SettingsDataModelFieldTextFormValues
+  | SettingsDataModelFieldNumberFormValues
+  | SettingsDataModelFieldSelectFormValues
+  | SettingsDataModelFieldRelationFormValues;
+//  ↑ Exhaustive. Discriminated. Zero escape hatches.
+```
+
+</details>
+
+<details>
+<summary><b>🟢 Nhost &nbsp;|&nbsp; <code>PR #4391</code> &amp; <code>PR #4333</code> — Unified Spinner System</b></summary>
+
+<br/>
+
+**Repository:** [`nhost/nhost`](https://github.com/nhost/nhost) — Open-source Firebase alternative
+
+**The problem:** Multiple inconsistent spinner implementations across the dashboard caused UI flicker on fast network responses and non-uniform sizing/styling across the onboarding flow and project pages.
+
+**What I shipped:**
+- ✦ Upgraded core `<Spinner />` with `size` prop (`sm | md | lg`), configurable `className` overrides, and a `delay` prop to suppress flicker on sub-200ms responses
+- ✦ Migrated all dashboard loader instances (onboarding + project pages) to the new unified `<Spinner />` standard
+- ✦ Single source of truth — eliminated every ad-hoc loader implementation
+
+```tsx
+// PR #4391 — New Spinner API
+<Spinner size="md" delay={150} className="text-purple-500" />
+//                 ↑ delay prevents flicker on fast connections
+```
+
+</details>
+
+<details>
+<summary><b>🔵 Formbricks &nbsp;|&nbsp; <code>Issue #8177</code> — Docker Self-Hosted Deployment Triage</b></summary>
+
+<br/>
+
+**Repository:** [`formbricks/formbricks`](https://github.com/formbricks/formbricks) — Open-source product survey & analytics suite
+
+**The problem:** A cluster of critical self-hosted Docker deployment failures affecting Postgres 18 and Node.js healthchecks in production compose stacks.
+
+| # | Bug | Root Cause | Fix |
+|---|-----|------------|-----|
+| 1 | Postgres 18 container crash on startup | Data directory mount conflict with PG18 init flow | Corrected volume mount strategy for PG18 compatibility |
+| 2 | Missing schema on fresh deployments | `POSTGRES_DB` env var absent from compose config | Added `POSTGRES_DB=formbricks` to trigger init scripts |
+| 3 | Node.js healthcheck silent failure | `localhost` resolved to `::1` (IPv6); Cube.js only binds `127.0.0.1` (IPv4) | Shifted HTTP probe target from `localhost` → `127.0.0.1` |
+
+```bash
+# The silent killer — Node.js healthcheck on IPv6-first stacks:
+
+# Before (fails silently):
+CMD node -e "require('http').get('http://localhost:4000/health', ...)"
+
+# After (explicit IPv4 bind):
+CMD node -e "require('http').get('http://127.0.0.1:4000/health', ...)"
+```
+
+</details>
 
 ---
 
-### 🚀 Production-Ready Work
+## `$ ls ./projects --filter=production` — Flagship Builds
 
 <div align="center">
 
 | | Project | Stack | Live |
 |:---:|---|---|:---:|
 | 🤖 | **[Sentinel ML + Supabase](https://github.com/Dakshx07/Sentinel-ML-Supabase)** — AI-powered threat intelligence with real-time anomaly detection & live dashboards | `TypeScript` `Supabase` `ML` | [↗ Live](https://sentinell-ai.netlify.app/) |
-| ⛓️ | **[MediChain](https://github.com/ssid18/MediChain)** — Blockchain prescription verification fighting medical fraud via AI + smart contracts | `TypeScript` `Solidity` `Blockchain` | — |
-| 🎬 | **[Streaming × MCP Agent](https://github.com/Dakshx07/streaming-platform-powered-by-mcp-agent)** — Full streaming platform (Live, VOD, chat, monetization) orchestrated by MCP agents | `TypeScript` `MCP` `WebSockets` | — |
-| 🧪 | **[Synthesis Labs](https://github.com/Dakshx07/SYNTHESIS-LABS)** — AI/research lab interface for cutting-edge experiments & rapid prototyping | `TypeScript` `React` `AI` | [↗ Live](https://synthesis-labs.vercel.app/) |
-| 🌐 | **[Portfolio](https://github.com/Dakshx07/Daksh-Portfolio-Project)** — Personal portfolio with animations, 3D elements & project showcase | `TypeScript` `Framer Motion` | [↗ Live](https://daksh-hiran.vercel.app/) |
+| ⛓️ | **[MediChain](https://github.com/ssid18/MediChain)** — Blockchain prescription verification fighting medical fraud via Solidity smart contracts + AI | `TypeScript` `Solidity` `Blockchain` | — |
+| 📡 | **[Streaming × MCP Agent](https://github.com/Dakshx07/streaming-platform-powered-by-mcp-agent)** — Full streaming platform (Live, VOD, WebSocket chat, monetization) orchestrated by MCP agents | `TypeScript` `MCP` `WebSockets` `Docker` | — |
+| 🧪 | **[Synthesis Labs](https://github.com/Dakshx07/SYNTHESIS-LABS)** — Premium AI/research lab interface for rapid prototyping & scientific experiments | `TypeScript` `React` `Framer Motion` | [↗ Live](https://synthesis-labs.vercel.app/) |
+| 🌌 | **[3D Portfolio](https://github.com/Dakshx07/Daksh-Portfolio-Project)** — Personal portfolio with 3D elements, physics-based transitions & Framer Motion choreography | `TypeScript` `Three.js` `Framer Motion` | [↗ Live](https://daksh-hiran.vercel.app/) |
 
 </div>
 
 ---
 
-### 🛠️ Tech Arsenal
+## `$ cat ./skills --verbose` — Technical Arsenal
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" /><br>Solidity</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" /><br>Swift</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Shell" /><br>Shell</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" /><br>Redux</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=framer" width="48" height="48" alt="Framer" /><br>Framer</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br>Supabase</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>Vercel</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br>Netlify</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" /><br>Xcode</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase</td>
-  </tr>
-</table>
+**◈ Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,solidity,swift,bash&theme=dark" />
+
+**◈ Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,framer,html,css&theme=dark" />
+
+**◈ Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,mysql,postgres,firebase&theme=dark" />
+
+**◈ DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git,vercel,netlify,postman,vscode,xcode&theme=dark" />
 
 </div>
 
 ---
 
-### ⚡ Stats Terminal
+## `$ man obsessions` — Specialized Research & Deep Interests
+
+```
+OBSESSIONS(1)              Engineering Manual               OBSESSIONS(1)
+
+NAME
+    daksh-hiran — research obsessions and engineering philosophy
+
+DOMAINS
+
+    MODEL CONTEXT PROTOCOL (MCP)
+        The convergence layer between AI agents and real infrastructure.
+        Building MCP-native apps where AI doesn't just assist —
+        it orchestrates. Streaming platforms, DevOps agents, and
+        stateful workflows driven by MCP tool-calling loops.
+
+    TYPESCRIPT STRICT MODE — EVERYWHERE
+        96.7% TypeScript code ratio is not a coincidence.
+        Type safety is architectural honesty. Discriminated unions,
+        branded primitives, exhaustive switch guards, and zero `any`.
+        The compiler is the first reviewer.
+
+    ZERO-DOWNTIME DOCKER ORCHESTRATION
+        Rolling restarts, health-check probe strategies, IPv4/IPv6
+        bind surface awareness, volume mount semantics across Postgres
+        major versions. Operations as code — fully declarative,
+        fully reproducible.
+
+    ON-CHAIN SYSTEMS — SOLIDITY & SECURITY
+        Smart contract architecture for medical fraud prevention
+        (MediChain). Cryptographic prescription signing, on-chain
+        provenance, and AI-assisted forgery detection.
+
+    OPEN-SOURCE SYSTEMS ARCHAEOLOGY
+        Reading, understanding, and improving large production
+        codebases (Twenty CRM, Nhost, Formbricks) — not just
+        using them.
+
+SEE ALSO
+    LFX Mentorship, MLH Fellowship, upstream PR history
+```
+
+---
+
+## `$ gh stats --user Dakshx07` — GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshx07&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshx07&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&langs_count=8" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dakshx07&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshx07&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshx07&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshx07&bg_color=0d1117&color=a78bfa&line=7C3AED&point=E0CFFF&area=true&area_color=302B63&border_color=302B63&hide_border=true" width="95%" />
+
 </div>
 
 ---
 
-### 🐍 Contribution Grid
+## `$ ./snake --theme=custom` — Contribution Map
+
+<!--
+  UNIQUE SNAKE: Purple-to-indigo palette matching the README aesthetic.
+  To generate this SVG in your repo, use the GitHub Action below:
+
+  - uses: Platane/snk@v3
+    with:
+      github_user_name: Dakshx07
+      outputs: |
+        dist/github-contribution-grid-snake.svg
+        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      svg_out_path: dist/github-contribution-grid-snake.svg
+      color_snake: "#a78bfa"
+      color_dots: "#0d1117,#302B63,#6d28d9,#7c3aed,#a78bfa"
+
+  This gives a purple snake eating purple-gradient dots
+  instead of the default green — unique to your brand.
+-->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+> 🐍 **Custom purple snake** — not the default green. Uses palette `#0d1117 → #302B63 → #6d28d9 → #7c3aed → #a78bfa` to match the README's midnight-purple identity. See the GitHub Action config in the comment above to replicate.
+
+---
+
+## `$ echo $ENGINEERING_PRINCIPLES`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   "The type system is not a cage — it's a contract with your future    │
+│    self. Write types like you'll be reading them at 3am in prod."      │
+│                                                                         │
+│   "An upstream merged PR is worth ten README badges."                  │
+│                                                                         │
+│   "Healthchecks lie. Bind addresses matter. localhost ≠ 127.0.0.1."   │
+│                                                                         │
+│   "Ship fast. Break things. Fix faster. — Building from Jaipur 🏙️"    │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dakshx07&theme=discord&no-frame=true&margin-w=6&column=7" />
-</div>
-
----
-
-### 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
+## `$ curl -X GET /contact`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer&animation=fadeIn" width="100%"/>
+| Channel | Link |
+|:-------:|:-----|
+| 🌐 Portfolio | [daksh-hiran.vercel.app](https://daksh-hiran.vercel.app/) |
+| 💼 LinkedIn | [linkedin.com/in/daksh-hiran-9534b930b](https://www.linkedin.com/in/daksh-hiran-9534b930b) |
+| 🐦 X / Twitter | [@dakshhiran7](https://x.com/dakshhiran7) |
+| 📧 Email | [daksh.hiran@gmail.com](mailto:daksh.hiran@gmail.com) |
+| 🧩 Bento | [bento.me/daksh7](https://bento.me/daksh7) |
+| 📊 DSA Profile | [codolio.com/profile/Daksh7](https://codolio.com/profile/Daksh7) |
+| 🧪 Synthesis Labs | [synthesis-labs.vercel.app](https://synthesis-labs.vercel.app/) |
 
-<sub>⚡ <i>"Ship fast. Break things. Fix faster."</i> — Building in public from Jaipur 🏙️</sub>
+<br/>
 
-<br/><br/>
+**Currently open to:** LFX Mentorship • MLH Fellowship • OSS Collaborations • Systems-focused Internships
 
-<img src="https://komarev.com/ghpvc/?username=dakshx07&label=Profile+Views&color=a78bfa&style=flat-square" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
+<!--
+  README engineered with intent.
+  TypeScript strict mode. Zero `any`. No shortcuts.
+  — Daksh Hiran (@Dakshx07)
+-->
