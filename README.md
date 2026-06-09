@@ -281,8 +281,6 @@ SEE ALSO
   </picture>
 </div>
 
-> 🐍 **Custom purple snake** — not the default green. Uses palette `#0d1117 → #302B63 → #6d28d9 → #7c3aed → #a78bfa` to match the README's midnight-purple identity. See the GitHub Action config in the comment above to replicate.
-
 ---
 
 ## `$ echo $ENGINEERING_PRINCIPLES`
