@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=230&section=header&text=Daksh%20Hiran&fontSize=68&fontColor=a78bfa&fontAlignY=40&desc=Systems%20Engineer%20%E2%80%A2%20Open-Source%20Contributor%20%E2%80%A2%20TypeScript%20Maximalist&descColor=94a3b8&descSize=16&descAlignY=62&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4652EB,50:3C48E6,100:4652EB&height=230&section=header&text=Daksh%20Hiran&fontSize=68&fontColor=D1D3EB&fontAlignY=40&desc=Systems%20Engineer%20%E2%80%A2%20Open-Source%20Contributor%20%E2%80%A2%20TypeScript%20Maximalist&descColor=94a3b8&descSize=16&descAlignY=62&animation=twinkling" width="100%" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Engineer+%7C+TypeScript+96.7%25+of+the+time;Docker+Orchestration+%2B+Zero-Downtime+Systems;Model+Context+Protocol+%E2%80%94+AI+%C3%97+Infrastructure;Open-Source+%40+Twenty+%C2%B7+Nhost+%C2%B7+Formbricks;Building+on-chain+%26+off-chain+primitives)](https://git.io/typing-svg)
