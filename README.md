@@ -239,29 +239,6 @@ CMD node -e "require('http').get('http://127.0.0.1:4000/health', ...)"
 
 ---
 
-## `$ echo $ENGINEERING_PRINCIPLES`
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   "The type system is not a cage — it's a contract with your future    │
-│    self. Write types like you'll be reading them at 3am in prod."      │
-│                                                                         │
-│   "An upstream merged PR is worth ten README badges."                  │
-│                                                                         │
-│   "Healthchecks lie. Bind addresses matter. localhost ≠ 127.0.0.1."   │
-│                                                                         │
-│   "Ship fast. Break things. Fix faster. — Building from Jaipur 🏙️"    │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## `$ curl -X GET /contact`
 
 <div align="center">
