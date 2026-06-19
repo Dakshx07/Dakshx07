@@ -2,9 +2,8 @@ name: Generate Pac-Man Game
 
 on:
   schedule:
-    # Run automatically every 24 hours
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch: 
   push:
     branches:
       - main
@@ -20,6 +19,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
