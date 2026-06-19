@@ -251,8 +251,6 @@ SEE ALSO
 
 ---
 
-## `$ ./snake --theme=custom` — Contribution Map
-
 <!--
   UNIQUE SNAKE: Purple-to-indigo palette matching the README aesthetic.
   To generate this SVG in your repo, use the GitHub Action below:
@@ -271,13 +269,15 @@ SEE ALSO
   instead of the default green — unique to your brand.
 -->
 
+## `$ ./pacman --arcade` — Contribution Map
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/github-contribution-grid-snake-dark.svg" />
+            srcset="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/github-contribution-grid-snake-dark.svg" width="100%" />
+            srcset="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/pacman-contribution-graph-dark.svg" width="100%" />
   </picture>
 </div>
 
