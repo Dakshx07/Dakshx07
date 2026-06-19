@@ -188,50 +188,6 @@ CMD node -e "require('http').get('http://127.0.0.1:4000/health', ...)"
 
 ---
 
-## `$ man obsessions` — Specialized Research & Deep Interests
-
-```
-OBSESSIONS(1)              Engineering Manual               OBSESSIONS(1)
-
-NAME
-    daksh-hiran — research obsessions and engineering philosophy
-
-DOMAINS
-
-    MODEL CONTEXT PROTOCOL (MCP)
-        The convergence layer between AI agents and real infrastructure.
-        Building MCP-native apps where AI doesn't just assist —
-        it orchestrates. Streaming platforms, DevOps agents, and
-        stateful workflows driven by MCP tool-calling loops.
-
-    TYPESCRIPT STRICT MODE — EVERYWHERE
-        96.7% TypeScript code ratio is not a coincidence.
-        Type safety is architectural honesty. Discriminated unions,
-        branded primitives, exhaustive switch guards, and zero `any`.
-        The compiler is the first reviewer.
-
-    ZERO-DOWNTIME DOCKER ORCHESTRATION
-        Rolling restarts, health-check probe strategies, IPv4/IPv6
-        bind surface awareness, volume mount semantics across Postgres
-        major versions. Operations as code — fully declarative,
-        fully reproducible.
-
-    ON-CHAIN SYSTEMS — SOLIDITY & SECURITY
-        Smart contract architecture for medical fraud prevention
-        (MediChain). Cryptographic prescription signing, on-chain
-        provenance, and AI-assisted forgery detection.
-
-    OPEN-SOURCE SYSTEMS ARCHAEOLOGY
-        Reading, understanding, and improving large production
-        codebases (Twenty CRM, Nhost, Formbricks) — not just
-        using them.
-
-SEE ALSO
-    LFX Mentorship, MLH Fellowship, upstream PR history
-```
-
----
-
 ## `$ gh stats --user Dakshx07` — GitHub Analytics
 
 <div align="center">
