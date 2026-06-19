@@ -230,10 +230,10 @@ CMD node -e "require('http').get('http://127.0.0.1:4000/health', ...)"
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/pacman-contribution-graph-dark.svg" />
+            srcset="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/pacman-contribution-graph-dark.svg?v=1" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/pacman-contribution-graph-dark.svg" width="100%" />
+            srcset="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/pacman-contribution-graph.svg?v=1" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Dakshx07/Dakshx07/output/pacman-contribution-graph-dark.svg?v=1" width="100%" />
   </picture>
 </div>
 
